@@ -42,21 +42,18 @@
 🛒 A clean and responsive React-based e-commerce frontend  
 💻 Built with reusable components, routing, and product pages  
 📦 Ready for backend integration with Node.js or Firebase  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
 
 
 ### 🔍 [CareerCraft – ATS Resume Optimizer](https://github.com/SomiyaRana/CareerCraft)
 🎯 AI-powered resume analysis using Gemini API + Streamlit  
 🧠 Get ATS score, keyword suggestions, job description matching  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
 
 ### 🥗 [Nutrition Monitor](https://github.com/SomiyaRana/NutritionMonitor)
 🍲 Upload a food image and get real-time nutrition info  
 🤖 Powered by Gemini API and clean Streamlit UI  
-![Gemini](https://img.shields.io/badge/-GeminiAPI-blue?style=flat&logo=google&logoColor=white)
+
 
 ---
 
@@ -80,10 +77,11 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="somyarana819@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/somiya-rana-b35152255"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:somyarana819@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/somiya-rana-b35152255"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/SomiyaRana"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
+
 
 ---
 
