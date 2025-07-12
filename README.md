@@ -1,9 +1,27 @@
-## 🚀 My Tech Stack 
+## 🧠 Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,express,mongodb,firebase,streamlit,gcp,azure" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&center=true&vCenter=true&multiline=true&width=650&height=70&lines=💻+Coding+My+Way+Through+the+Clouds;🧠+AI+and+Web+Are+My+Superpowers;☁️+AZ-900+Certified+%7C+Google+GenAI+Developer" />
-</p>
+<marquee behavior="scroll" direction="left" scrollamount="10">
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="60" src="https://img.icons8.com/color/60/azure-1.png" alt="Azure" />
+</marquee>
