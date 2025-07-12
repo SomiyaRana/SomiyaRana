@@ -33,9 +33,7 @@
   </kbd>
 </p>
 
-<p align="center">
-  <b>Scroll to view →</b>
-</p>
+
 
 ## 💼 Featured Projects
 
