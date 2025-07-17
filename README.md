@@ -34,26 +34,26 @@
 </p>
 
 
-
 ## 💼 Featured Projects
 
-
-### 🛍️ [SHOPPER – React E-Commerce Frontend](https://github.com/SomiyaRana/SHOPPER)
+### 🛍️ [SHOPPER – React E-Commerce Frontend](https://github.com/SomiyaRana/SHOPPER)  
 🛒 A clean and responsive React-based e-commerce frontend  
 💻 Built with reusable components, routing, and product pages  
 📦 Ready for backend integration with Node.js or Firebase  
 
-
-
-### 🔍 [CareerCraft – ATS Resume Optimizer](https://github.com/SomiyaRana/CareerCraft)
+### 🔍 [CareerCraft – ATS Resume Optimizer](https://github.com/SomiyaRana/CareerCraft)  
 🎯 AI-powered resume analysis using Gemini API + Streamlit  
 🧠 Get ATS score, keyword suggestions, job description matching  
 
-
-### 🥗 [Nutrition Monitor](https://github.com/SomiyaRana/NutritionMonitor)
+### 🥗 [Nutrition Monitor](https://github.com/SomiyaRana/NutritionMonitor)  
 🍲 Upload a food image and get real-time nutrition info  
 🤖 Powered by Gemini API and clean Streamlit UI  
 
+### 🎫 [Support Ticketing System](https://github.com/SomiyaRana/Ticketentra)  
+🛠️ A full-stack support system for ticket creation, management, and resolution  
+🔐 JWT-authenticated user and admin roles with dashboard access  
+📧 Automatic email notifications using Nodemailer for tickets  
+💻 Built with React, Tailwind CSS, Node.js, Express & MongoDB  
 
 ---
 
