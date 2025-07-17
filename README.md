@@ -65,9 +65,6 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
-
-![github contribution grid snake](https://raw.githubusercontent.com/Abhishek11malik/Abhishek11malik/output/github-contribution-grid-snake.svg)
 
 
 ## 📊 GitHub Stats
