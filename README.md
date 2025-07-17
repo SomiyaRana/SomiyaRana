@@ -49,7 +49,7 @@
 🍲 Upload a food image and get real-time nutrition info  
 🤖 Powered by Gemini API and clean Streamlit UI  
 
-### 🎫 [Support Ticketing System](https://github.com/SomiyaRana/Ticketentra)  
+### 🎫 [Ticketentra](https://github.com/SomiyaRana/Ticketentra)  
 🛠️ A full-stack support system for ticket creation, management, and resolution  
 🔐 JWT-authenticated user and admin roles with dashboard access  
 📧 Automatic email notifications using Nodemailer for tickets  
