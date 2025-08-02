@@ -33,7 +33,6 @@
   </kbd>
 </p>
 
-
 ## 💼 Featured Projects
 
 ### 🛍️ [SHOPPER – React E-Commerce Frontend](https://github.com/SomiyaRana/SHOPPER)  
@@ -55,6 +54,11 @@
 📧 Automatic email notifications using Nodemailer for tickets  
 💻 Built with React, Tailwind CSS, Node.js, Express & MongoDB  
 
+### 🍽️ [KHANA – MERN Food Delivery App](https://github.com/SomiyaRana/KHANA)  
+🍛 A complete MERN stack application for food ordering and delivery  
+📦 Features login/signup, product categories, cart system, and admin panel  
+🌐 Built using React, Tailwind, Node.js, Express, and MongoDB with REST APIs
+
 ---
 
 ## 📄 Certifications
@@ -64,8 +68,6 @@
 - 🛡️ IBM Cybersecurity Fundamentals
 
 ---
-
-
 
 ## 📊 GitHub Stats
 
@@ -82,7 +84,6 @@
   <a href="https://www.linkedin.com/in/somiya-rana-b35152255"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/SomiyaRana"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
-
 
 ---
 
