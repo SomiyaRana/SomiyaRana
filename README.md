@@ -1,3 +1,11 @@
+# PingPoint 🌐
+
+[![PingPoint Repository](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SomiyaRana/PingPoint)
+
+PingPoint is a [brief description of your app—e.g., "real-time location and messaging platform connecting users across locations efficiently"].  
+
+---
+
 ## 🧠 Skills
 
 <p align="center">
@@ -33,10 +41,12 @@
   </kbd>
 </p>
 
+---
+
 ## 💼 Featured Projects
 
 ### 🛍️ [SHOPPER – React E-Commerce Frontend](https://github.com/SomiyaRana/SHOPPER)  
-🛒 A clean and responsive React-based e-commerce frontend  
+🛒 Clean and responsive React e-commerce frontend  
 💻 Built with reusable components, routing, and product pages  
 📦 Ready for backend integration with Node.js or Firebase  
 
@@ -49,23 +59,28 @@
 🤖 Powered by Gemini API and clean Streamlit UI  
 
 ### 🎫 [Ticketentra](https://github.com/SomiyaRana/Ticketentra)  
-🛠️ A full-stack support system for ticket creation, management, and resolution  
-🔐 JWT-authenticated user and admin roles with dashboard access  
-📧 Automatic email notifications using Nodemailer for tickets  
+🛠️ Full-stack support system for ticket creation, management, and resolution  
+🔐 JWT-authenticated user and admin roles  
+📧 Automatic email notifications using Nodemailer  
 💻 Built with React, Tailwind CSS, Node.js, Express & MongoDB  
 
 ### 🍽️ [KHANA – MERN Food Delivery App](https://github.com/SomiyaRana/KHANA)  
-🍛 A complete MERN stack application for food ordering and delivery  
+🍛 Complete MERN stack food ordering and delivery application  
 📦 Features login/signup, product categories, cart system, and admin panel  
-🌐 Built using React, Tailwind, Node.js, Express, and MongoDB with REST APIs
+🌐 Built with React, Tailwind, Node.js, Express, and MongoDB  
+
+### 📍 [PingPoint](https://github.com/SomiyaRana/PingPoint)  
+📡 Real-time location-based social platform  
+💬 Chat with nearby users instantly  
+⚡ Built with React, Node.js, Express, MongoDB & Firebase  
 
 ---
 
 ## 📄 Certifications
 
-- 🟦 Microsoft Certified: Azure Fundamentals (AZ-900)
-- ☁️ Google Cloud GenAI Developer Learning Path (Skill Badges)
-- 🛡️ IBM Cybersecurity Fundamentals
+- 🟦 Microsoft Certified: Azure Fundamentals (AZ-900)  
+- ☁️ Google Cloud GenAI Developer Learning Path (Skill Badges)  
+- 🛡️ IBM Cybersecurity Fundamentals  
 
 ---
 
@@ -87,4 +102,4 @@
 
 ---
 
-> _“Code with clarity. Build with passion. Share with purpose.”_ ✨
+> _“Code with clarity. Build with passion. Share with purpose.”_ ✨  
