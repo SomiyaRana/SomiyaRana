@@ -15,7 +15,7 @@
 
 💬 Real-time location-based chat platform  
 ☕ Chat with nearby users instantly  
-⚡ Built with React, Node.js, Express, MongoDB & Firebase
+⚡ Built with React, Node.js, Express, MongoDB & Socket.io
 
 ### 🛍️ [SHOPPER – React E-Commerce Frontend](https://github.com/SomiyaRana/SHOPPER)  
 
