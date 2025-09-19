@@ -1,10 +1,24 @@
-# 👋 Hi, I'm Somiya Rana
+# 👋 Hi, I'm <span style="background:linear-gradient(90deg,#ff0080,#7928ca);-webkit-background-clip:text;-webkit-text-fill-color:transparent">Somiya Rana</span>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00F&background=fff0&width=500&lines=Full-Stack+Developer+🚀)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=ff0080&background=fff0&width=600&lines=Full-Stack+Developer+🚀;Cloud+Developer+☁️)
 ---
-## 🧠 Skills <p align="center"> <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="60" /> </kbd> <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="60" /> </kbd> <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="60" /> </kbd> <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="60" /> </kbd> <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="60" /> </kbd> <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="60" /> </kbd> <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" width="60" /> </kbd> <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="ExpressJS" width="60" /> </kbd> <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="60" /> </kbd> <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="60" /> </kbd> </p> 
+
+## 🧠 Skills
+<p align="center">
+  <kbd><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></kbd>
+  <kbd><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></kbd>
+  <kbd><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></kbd>
+  <kbd><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></kbd>
+  <kbd><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></kbd>
+  <kbd><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></kbd>
+  <kbd><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></kbd>
+  <kbd><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/></kbd>
+  <kbd><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></kbd>
+  <kbd><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/></kbd>
+</p>
 
 ---
+
 ## 💼 Featured Projects
 
 ### 💬 [PingPoint](https://github.com/SomiyaRana/PingPoint)  
