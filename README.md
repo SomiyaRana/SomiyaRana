@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/-Hi!%20Somiya%20Rana-FF0080?style=for-the-badge&logoColor=white&labelColor=7928ca" />
+  <img src="https://img.shields.io/badge/Hi!%20Somiya%20Rana-FF0080?style=for-the-badge&logo=heart&logoColor=white" />
 </p>
 
 <p align="center">
