@@ -15,9 +15,12 @@
 
 ### 💬 [PingPoint](https://github.com/SomiyaRana/PingPoint)  
 
-💬 Real-time location-based chat platform  
-☕ Chat with nearby users instantly  
-⚡ Built with React, Node.js, Express, MongoDB & Socket.io
+🎃 Authentication && Authorization with JWT
+👾 Real-time messaging with Socket.io
+🚀 Online user status
+👌 Global state management with Zustand
+🐞 Error handling both on the server and on the client
+
 
 ### 🛍️ [SHOPPER – React E-Commerce Frontend](https://github.com/SomiyaRana/SHOPPER)  
 
