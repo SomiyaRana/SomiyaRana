@@ -1,7 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=FF0080&width=600&lines=Hi!+I'm+Somiya+Rana;Full-Stack+Developer+🚀;Cloud+Developer+☁️"/>
-</p>
+---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Hi!%20Somiya%20Rana-ff0080?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
