@@ -1,8 +1,7 @@
 ---
 
-<h1 align="center">
-  <img src="https://img.shields.io/badge/Hi!%20I%20am%20Somiya%20Rana-FF0080?style=for-the-badge&logoColor=white" />
-</h1>
+<h1 align="center">Hi! I am Somiya Rana 👋</h1>
+
 
 ---
 
