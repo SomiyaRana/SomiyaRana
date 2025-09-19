@@ -1,7 +1,11 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hi!%20Somiya%20Rana-ff0080?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://i.ibb.co/Y7mrp1d/neon-banner.gif" alt="Neon Banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=4000&pause=1000&color=FF0080&center=true&vCenter=true&width=800&lines=ABHISHEK+MALIK;Full-Stack+Developer+🚀;Cloud+Developer+☁️;AI+%26+Automation+Enthusiast+🤖" alt="Typing SVG" />
 </p>
 
 ---
