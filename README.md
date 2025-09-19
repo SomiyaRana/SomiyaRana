@@ -12,36 +12,36 @@
 ## 💼 Featured Projects
 
 ### 💬 [PingPoint](https://github.com/SomiyaRana/PingPoint)  
-![PingPoint Demo](https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif)  
+
 💬 Real-time location-based chat platform  
 ☕ Chat with nearby users instantly  
 ⚡ Built with React, Node.js, Express, MongoDB & Firebase
 
 ### 🛍️ [SHOPPER – React E-Commerce Frontend](https://github.com/SomiyaRana/SHOPPER)  
-![E-Commerce Demo](https://media.giphy.com/media/xUOxfjsW4axH2fN3di/giphy.gif)  
+
 🛒 Clean and responsive React e-commerce frontend  
 💻 Built with reusable components, routing, and product pages  
 📦 Ready for backend integration with Node.js or Firebase  
 
 ### 🔍 [CareerCraft – ATS Resume Optimizer](https://github.com/SomiyaRana/CareerCraft)  
-![CareerCraft Demo](https://media.giphy.com/media/l41lUCGYm6uVgRVvS/giphy.gif)  
+
 🎯 AI-powered resume analysis using Gemini API + Streamlit  
 🧠 Get ATS score, keyword suggestions, job description matching  
 
 ### 🥗 [Nutrition Monitor](https://github.com/SomiyaRana/NutritionMonitor)  
-![Nutrition Monitor Demo](https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif)  
+
 🍲 Upload a food image and get real-time nutrition info  
 🤖 Powered by Gemini API and clean Streamlit UI  
 
 ### 🎫 [Ticketentra](https://github.com/SomiyaRana/Ticketentra)  
-![Ticketentra Demo](https://media.giphy.com/media/3o7TKP4hN5Z3ZczQi0/giphy.gif)  
+ 
 🛠️ Full-stack support system for ticket creation, management, and resolution  
 🔐 JWT-authenticated user and admin roles  
 📧 Automatic email notifications using Nodemailer  
 💻 Built with React, Tailwind CSS, Node.js, Express & MongoDB  
 
 ### 🍽️ [KHANA – MERN Food Delivery App](https://github.com/SomiyaRana/KHANA)  
-![KHANA Demo](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)  
+
 🍛 Complete MERN stack food ordering and delivery application  
 📦 Features login/signup, product categories, cart system, and admin panel  
 🌐 Built with React, Tailwind, Node.js, Express, and MongoDB  
@@ -49,7 +49,7 @@
 ---
 
 ## 📄 Certifications
-
+- 🌩️ AWS Cloud Practitioner  Certified
 - 🟦 Microsoft Certified: Azure Fundamentals (AZ-900)  
 - ☁️ Google Cloud GenAI Developer Learning Path (Skill Badges)  
 - 🛡️ IBM Cybersecurity Fundamentals  
