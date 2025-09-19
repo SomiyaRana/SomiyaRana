@@ -1,10 +1,3 @@
-# PingPoint 🌐
-
-[![PingPoint Repository](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SomiyaRana/PingPoint)
-
-PingPoint is a [brief description of your app—e.g., "real-time location and messaging platform connecting users across locations efficiently"].  
-
----
 
 ## 🧠 Skills
 
@@ -45,6 +38,11 @@ PingPoint is a [brief description of your app—e.g., "real-time location and me
 
 ## 💼 Featured Projects
 
+### 💬 [PingPoint](https://github.com/SomiyaRana/PingPoint)  
+💬 Real-time location-based chat platform  
+☕ Chat with nearby users instantly  
+⚡ Built with React, Node.js, Express, MongoDB & Firebase
+
 ### 🛍️ [SHOPPER – React E-Commerce Frontend](https://github.com/SomiyaRana/SHOPPER)  
 🛒 Clean and responsive React e-commerce frontend  
 💻 Built with reusable components, routing, and product pages  
@@ -69,10 +67,6 @@ PingPoint is a [brief description of your app—e.g., "real-time location and me
 📦 Features login/signup, product categories, cart system, and admin panel  
 🌐 Built with React, Tailwind, Node.js, Express, and MongoDB  
 
-### 📍 [PingPoint](https://github.com/SomiyaRana/PingPoint)  
-📡 Real-time location-based social platform  
-💬 Chat with nearby users instantly  
-⚡ Built with React, Node.js, Express, MongoDB & Firebase  
 
 ---
 
