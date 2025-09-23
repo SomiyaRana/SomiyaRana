@@ -6,8 +6,6 @@
 
 
 ## 🧠 Skills 
-<p align="center"> 
-  ## 🧠 Skills  
 <p align="center">
   <marquee behavior="alternate" direction="left" scrollamount="6">
     <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" /></kbd>
