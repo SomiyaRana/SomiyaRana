@@ -19,8 +19,9 @@
   <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" title="Socket.io" width="60" /> </kbd> 
   <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="60" /> </kbd> 
   <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" width="60" /> </kbd> 
-  <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" width="60" /> </kbd> 
+  <kbd> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" title="AWS" width="80" /> </kbd> 
 </p>
+
 
 
 ## 💼 Featured Projects
