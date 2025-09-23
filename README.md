@@ -15,10 +15,9 @@
 
 ### 💬 [PingPoint](https://github.com/SomiyaRana/PingPoint)  
 
-🎃 Authentication && Authorization with JWT
-👾 Real-time messaging with Socket.io
-🚀 Online user status
-
+- 🎃 Authentication & Authorization with JWT  
+- 👾 Real-time messaging with Socket.io  
+- 🚀 Online user status
 
 
 ### 🛍️ [SHOPPER – React E-Commerce Frontend](https://github.com/SomiyaRana/SHOPPER)  
