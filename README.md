@@ -22,32 +22,31 @@
 
 ### 🛍️ [SHOPPER – React E-Commerce Frontend](https://github.com/SomiyaRana/SHOPPER)  
 
-🛒 Clean and responsive React e-commerce frontend  
-💻 Built with reusable components, routing, and product pages  
-📦 Ready for backend integration with Node.js or Firebase  
+- 🛒 Clean and responsive React e-commerce frontend  
+- 💻 Built with reusable components, routing, and product pages  
+- 📦 Ready for backend integration with Node.js or Firebase  
 
 ### 🔍 [CareerCraft – ATS Resume Optimizer](https://github.com/SomiyaRana/CareerCraft)  
 
-🎯 AI-powered resume analysis using Gemini API + Streamlit  
-🧠 Get ATS score, keyword suggestions, job description matching  
+- 🎯 AI-powered resume analysis using Gemini API + Streamlit  
+- 🧠 Get ATS score, keyword suggestions, job description matching  
 
 ### 🥗 [Nutrition Monitor](https://github.com/SomiyaRana/NutritionMonitor)  
 
-🍲 Upload a food image and get real-time nutrition info  
-🤖 Powered by Gemini API and clean Streamlit UI  
+- 🍲 Upload a food image and get real-time nutrition info  
+- 🤖 Powered by Gemini API and clean Streamlit UI  
 
 ### 🎫 [Ticketentra](https://github.com/SomiyaRana/Ticketentra)  
  
-🛠️ Full-stack support system for ticket creation, management, and resolution  
-🔐 JWT-authenticated user and admin roles  
-📧 Automatic email notifications using Nodemailer  
-💻 Built with React, Tailwind CSS, Node.js, Express & MongoDB  
+- 🛠️ Full-stack support system for ticket creation, management, and resolution  
+- 🔐 JWT-authenticated user and admin roles  
+- 📧 Automatic email notifications using Nodemailer  
+- 💻 Built with React, Tailwind CSS, Node.js, Express & MongoDB  
 
 ### 🍽️ [KHANA – MERN Food Delivery App](https://github.com/SomiyaRana/KHANA)  
-
-🍛 Complete MERN stack food ordering and delivery application  
-📦 Features login/signup, product categories, cart system, and admin panel  
-🌐 Built with React, Tailwind, Node.js, Express, and MongoDB  
+- 🍛 Complete MERN stack food ordering and delivery application  
+- 📦 Features login/signup, product categories, cart system, and admin panel  
+- 🌐 Built with React, Tailwind, Node.js, Express, and MongoDB  
 
 ---
 
