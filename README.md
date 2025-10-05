@@ -24,8 +24,6 @@
   <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="60" /> </kbd>
   <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="60" /> </kbd>
   <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="60" /> </kbd>
-  <kbd> <img src="https://shadcn-ui.com/favicon-32x32.png" title="ShadCN" width="60" /> </kbd>
-  <kbd> <img src="https://greensock.com/uploads/default/original/1X/c6210a4eea2c7de07c72a2dbca25c66c35d7f7d1.png" title="GSAP" width="60" /> </kbd>
 </p>
 
 
