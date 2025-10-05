@@ -20,8 +20,13 @@
   <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="60" /> </kbd> 
   <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" width="60" /> </kbd> 
   <kbd> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" title="AWS" width="80" /> </kbd> 
+  <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="60" /> </kbd>
+  <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="60" /> </kbd>
+  <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="60" /> </kbd>
+  <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="60" /> </kbd>
+  <kbd> <img src="https://shadcn-ui.com/favicon-32x32.png" title="ShadCN" width="60" /> </kbd>
+  <kbd> <img src="https://greensock.com/uploads/default/original/1X/c6210a4eea2c7de07c72a2dbca25c66c35d7f7d1.png" title="GSAP" width="60" /> </kbd>
 </p>
-
 
 
 
