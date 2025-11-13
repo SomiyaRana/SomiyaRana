@@ -65,6 +65,10 @@
   <img src="https://raw.githubusercontent.com/SomiyaRana/SomiyaRana/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
+## 🐍 GitHub Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/SomiyaRana/SomiyaRana/output/snake.svg)
+
 
 <!-- comment## 💼 Featured Projects
 
