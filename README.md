@@ -17,13 +17,10 @@
     style="border-radius: 12px;"
   />
  ---
-
-
-  <!-- Three equal-sized GIF icons -->
-  <img src="https://user-images.githubusercontent.com/74038190/212257410-17e54b84-6af8-4cd8-9deb-46617b6dfd8f.gif" width="120" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257410-17e54b84-6af8-4cd8-9deb-46617b6dfd8f.gif" width="120" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257410-17e54b84-6af8-4cd8-9deb-46617b6dfd8f.gif" width="120" />
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </div>
 
 ## <span style="background: linear-gradient(to right, #8c52ff, #ff6ec7); -webkit-background-clip: text; color: transparent; font-weight:700;">📌 About Me</span>
@@ -37,8 +34,7 @@
 
 ---
 
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Skills
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> <span>Skills</span>
 
 <p align="center"> <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="60" /> </kbd> <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="60" /> </kbd> <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="60" /> </kbd> <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="60" /> </kbd> <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="60" /> </kbd> <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" width="60" /> </kbd> <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="ExpressJS" width="60" /> </kbd> <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="60" /> </kbd> <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="60" /> </kbd> <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" title="Socket.io" width="60" /> </kbd> <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="60" /> </kbd> <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" width="60" /> </kbd> <kbd> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" title="AWS" width="80" /> </kbd> <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="60" /> </kbd> <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="60" /> </kbd> <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="60" /> </kbd> <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="60" /> </kbd> </p>
 
