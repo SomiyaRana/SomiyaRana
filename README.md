@@ -72,16 +72,7 @@
 
 
 ---
-<!--
-## <span style="background: linear-gradient(to right, #00f2fe, #4facfe); -webkit-background-clip: text; color: transparent; font-weight:700;">📄 Certifications</span>
 
-- 🌩️ AWS Cloud Practitioner Certified  
-- 🟦 Microsoft Certified: Azure Fundamentals (AZ-900)  
-- ☁️ Google Cloud GenAI Developer Learning Path (Skill Badges)  
-- 🛡️ IBM Cybersecurity Fundamentals  
-
----
--->
 ## <span style="background: linear-gradient(to right, #a18cd1, #fbc2eb); -webkit-background-clip: text; color: transparent; font-weight:700;">📊 GitHub Stats</span>
 
 <p align="center">
@@ -96,9 +87,11 @@
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SomiyaRana/SomiyaRana/output/snake.svg" />
 </div>
+
+---
 <p align="center">
   <img src="https://raw.githubusercontent.com/SomiyaRana/SomiyaRana/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
----
+
 
