@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="180" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/SomiyaRana/SomiyaRana/main/git_img.png" width="200" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hi! I am Somiya Rana 👋</h1>
