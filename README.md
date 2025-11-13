@@ -8,25 +8,29 @@
 <h1 align="center" style="font-weight:700;">
   Hi! I am <span style="color:#7f5af0">Somiya Rana</span> 👋
 </h1>
-
-   
-<img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-<br><br>
-
-
-<!-- LINKS -->
-<p align="center">
- • <a href="https://somiya911.vercel.app/" style="color:#ff6bcb; font-weight:600;">Portfolio</a> •
- <a href="https://www.linkedin.com/in/somiyarana9/" style="color:#00d4ff; font-weight:600;">LinkedIn</a> •
-</p>
-
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+
+  <!-- Main Banner -->
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+    width="450"
+    style="border-radius: 12px;"
+  />
+  
+  <br><br>
+
+  <!-- Links -->
+  <a href="https://somiya911.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/somiyarana9/">LinkedIn</a>
+
+  <br><br>
+
+  <!-- Three equal-sized GIF icons -->
+  <img src="https://user-images.githubusercontent.com/74038190/212257410-17e54b84-6af8-4cd8-9deb-46617b6dfd8f.gif" width="120" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257410-17e54b84-6af8-4cd8-9deb-46617b6dfd8f.gif" width="120" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257410-17e54b84-6af8-4cd8-9deb-46617b6dfd8f.gif" width="120" />
+
 </div>
- 
 
 ## <span style="background: linear-gradient(to right, #8c52ff, #ff6ec7); -webkit-background-clip: text; color: transparent; font-weight:700;">📌 About Me</span>
 
