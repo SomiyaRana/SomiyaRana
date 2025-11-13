@@ -48,7 +48,7 @@
 
 <!-- Contribution & Activity Card -->
 <p align="center">
-  <img src="https://metrics.lecoq.io/SomiyaRana?template=classic&config.timezone=Asia%2FKolkata" />
+  <img src="https://raw.githubusercontent.com/SomiyaRana/SomiyaRana/main/metrics.svg" />
 </p>
 
 
