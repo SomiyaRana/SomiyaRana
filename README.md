@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/somiyarana9/">LinkedIn</a> 
 </p>
 
----
+
 ## 📌 About Me  
 🎯 A highly driven CSE student with a strong passion for technology and problem-solving  
 💻 Experienced in React.js, Node.js, Java, and modern full-stack development  
