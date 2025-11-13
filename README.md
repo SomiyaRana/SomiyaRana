@@ -32,6 +32,8 @@
 🔍 Enthusiastic about AI, backend engineering, and cloud technologies  
 
 ---
+
+
 ## <span style="background: linear-gradient(to right, #ff8a00, #e52e71); -webkit-background-clip: text; color: transparent; font-weight:700;">🧠 Skills (Animated)</span>
 
 
@@ -57,6 +59,27 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
+
+<!-- Three.js -->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c9a1b09e-51ff-4b83-aa2c-62b2c1a7d81c" width="100">
+
+<!-- Spring Boot -->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a40add01-4528-4587-9a16-0a88bb6e4e69" width="100">
+
+<!-- AWS -->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4a2cc54d-1143-49e3-8377-642f35f9d44a" width="100">
+
+<!-- Azure -->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a99d7560-c29e-41e2-be08-db9e06b0e3f3" width="100">
+
+<!-- Socket.io -->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e3b3447b-f93f-4b40-b96a-b2cda0cb6f7a" width="100">
+
+<!-- PostgreSQL -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="100">
+
+<!-- MySQL -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="100">
 </div>
 <br><br>    
 
