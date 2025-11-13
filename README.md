@@ -1,11 +1,11 @@
-<!-- PROFILE IMAGE -->
+<!-- PROFILE IMAGE 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SomiyaRana/SomiyaRana/main/git_img.png" width="200" style="border-radius: 50%;" />
 </p>
+-->
 
 
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img align="center"src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br><br>
 
 <!-- MAIN TITLE -->
