@@ -16,8 +16,7 @@
     width="400"
     style="border-radius: 12px;"
   />
-  
-  <br><br>
+ 
 
   <!-- Links -->
   <a href="https://somiya911.vercel.app/">Portfolio</a> •
