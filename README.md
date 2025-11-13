@@ -39,7 +39,12 @@
   <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="60" /> </kbd>
 </p>
 
+## 📊 GitHub Stats  
 
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SomiyaRana&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomiyaRana&layout=compact&theme=tokyonight" />
+</p>
 
 ## 💼 Featured Projects
 
