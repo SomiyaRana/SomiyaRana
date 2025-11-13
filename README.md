@@ -10,6 +10,13 @@
 </p>
 
 ---
+## 📌 About Me  
+🎯 A highly driven CSE student with a strong passion for technology and problem-solving  
+💻 Experienced in React.js, Node.js, Java, and modern full-stack development  
+🛠️ Developed AI-enhanced applications, e-commerce projects, and personal portfolio websites  
+📈 Completed 300+ DSA questions on LeetCode, improving logic and coding skills  
+🚀 Continuously upgrading my knowledge and working on meaningful real-world projects  
+🔍 Enthusiastic about AI, backend engineering, and cloud technologies  
 
 ## 🧠 Skills 
 <p align="center"> 
