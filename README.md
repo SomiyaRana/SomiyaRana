@@ -91,14 +91,14 @@
 
 ---
 
+## <span style="background: linear-gradient(to right, #43e97b, #38f9d7); -webkit-background-clip: text; color: transparent; font-weight:700;">🐍 GitHub Contribution Snake</span>
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SomiyaRana/SomiyaRana/output/snake.svg" />
+</div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/SomiyaRana/SomiyaRana/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ---
 
-## <span style="background: linear-gradient(to right, #43e97b, #38f9d7); -webkit-background-clip: text; color: transparent; font-weight:700;">🐍 GitHub Contribution Snake</span>
-
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SomiyaRana/SomiyaRana/output/snake.svg" />
-</div>
