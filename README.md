@@ -55,7 +55,7 @@
 </p>
 
 
-## 💼 Featured Projects
+<!-- comment## 💼 Featured Projects
 
 ### 💬 [PingPoint](https://github.com/SomiyaRana/PingPoint)  
 
@@ -93,6 +93,7 @@
 - 🌐 Built with React, Tailwind, Node.js, Express, and MongoDB  
 
 ---
+-->
 
 ## 📄 Certifications
 - 🌩️ AWS Cloud Practitioner  Certified
