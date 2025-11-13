@@ -50,7 +50,7 @@
 </p>
 
 ---
-
+<!--
 ## <span style="background: linear-gradient(to right, #00f2fe, #4facfe); -webkit-background-clip: text; color: transparent; font-weight:700;">📄 Certifications</span>
 
 - 🌩️ AWS Cloud Practitioner Certified  
@@ -59,7 +59,7 @@
 - 🛡️ IBM Cybersecurity Fundamentals  
 
 ---
-
+-->
 ## <span style="background: linear-gradient(to right, #a18cd1, #fbc2eb); -webkit-background-clip: text; color: transparent; font-weight:700;">📊 GitHub Stats</span>
 
 <p align="center">
