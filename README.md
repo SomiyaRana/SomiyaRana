@@ -6,8 +6,7 @@
 
 <p align="center">
  •  <a href="https://somiya911.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/somiyarana9/">LinkedIn</a> •
-  <a href="https://github.com/SomiyaRana">GitHub</a> 
+  <a href="https://www.linkedin.com/in/somiyarana9/">LinkedIn</a> 
 </p>
 
 ---
