@@ -39,6 +39,17 @@
   <kbd> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="60" /> </kbd>
 </p>
 
+
+
+## 📄 Certifications
+- 🌩️ AWS Cloud Practitioner  Certified
+- 🟦 Microsoft Certified: Azure Fundamentals (AZ-900)  
+- ☁️ Google Cloud GenAI Developer Learning Path (Skill Badges)  
+- 🛡️ IBM Cybersecurity Fundamentals  
+
+---
+
+
 ## 📊 GitHub Stats  
 
 <!-- Main Stats + Top Languages -->
@@ -93,17 +104,7 @@
 - 🌐 Built with React, Tailwind, Node.js, Express, and MongoDB  
 
 ---
--->
-
-## 📄 Certifications
-- 🌩️ AWS Cloud Practitioner  Certified
-- 🟦 Microsoft Certified: Azure Fundamentals (AZ-900)  
-- ☁️ Google Cloud GenAI Developer Learning Path (Skill Badges)  
-- 🛡️ IBM Cybersecurity Fundamentals  
-
----
 
 
-
-> _“Code with clarity. Build with passion. Share with purpose.”_ ✨
+> _“Code with clarity. Build with passion. Share with purpose.”_ ✨ -->
 
