@@ -48,8 +48,9 @@
 
 <!-- Contribution & Activity Card -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SomiyaRana/SomiyaRana/main/metrics.svg" />
+  <img src="https://raw.githubusercontent.com/SomiyaRana/SomiyaRana/main/github-metrics.svg" />
 </p>
+
 
 
 ## 💼 Featured Projects
