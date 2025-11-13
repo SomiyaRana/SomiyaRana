@@ -67,8 +67,9 @@
 
 ## 🐍 GitHub Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/SomiyaRana/SomiyaRana/output/snake.svg)
-
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SomiyaRana/SomiyaRana/output/snake.svg" />
+</div>
 
 <!-- comment## 💼 Featured Projects
 
