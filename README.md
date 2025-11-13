@@ -59,26 +59,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
-<!-- Three.js -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c59d2e95-0d67-4b8d-aad3-31e5bd30bbd7" width="90">
 
-<!-- Spring Boot -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d8e1160e-fcec-445c-8017-83597bc4fb02" width="90">
-
-<!-- AWS -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c365df2-fad9-4a63-bbad-c03657358a1f" width="90">
-
-<!-- Azure -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e78e442b-bfb0-4c97-90e4-32299b7bbd96" width="90">
-
-<!-- Socket.io -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/86ef9f55-8900-4cbe-9c37-ac25aee3e84f" width="90">
-
-<!-- PostgreSQL -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ac5e45ad-f7d4-452f-b757-74c2a6f92f0f" width="90">
-
-<!-- MySQL -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/82e373e6-0dcd-4c0d-a431-8ae063fd99a7" width="90">
 </div>
 <br><br>    
 
