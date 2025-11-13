@@ -41,16 +41,18 @@
 
 ## 📊 GitHub Stats  
 
+<!-- Main Stats + Top Languages -->
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SomiyaRana&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomiyaRana&layout=compact&theme=tokyonight&hide=c%2B%2B" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SomiyaRana&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomiyaRana&layout=compact&theme=tokyonight&hide=c%2B%2B" />
 </p>
 
-<!-- Contribution & Activity Card -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SomiyaRana/SomiyaRana/main/github-metrics.svg" />
-</p>
+---
 
+<!-- GitHub Metrics Card -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SomiyaRana/SomiyaRana/main/github-metrics.svg" alt="GitHub Metrics" />
+</p>
 
 
 ## 💼 Featured Projects
