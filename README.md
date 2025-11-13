@@ -1,9 +1,17 @@
-
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="180" style="border-radius: 50%;" />
+</p>
 
 <h1 align="center">Hi! I am Somiya Rana 👋</h1>
 
+<p align="center">
+  <a href="https://somiya911.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/somiyarana9/">LinkedIn</a> •
+  <a href="https://github.com/SomiyaRana">GitHub</a> •
+  <a href="https://leetcode.com/u/somyarana/">LeetCode</a>
+</p>
 
-
+---
 
 ## 🧠 Skills 
 <p align="center"> 
