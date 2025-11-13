@@ -43,8 +43,14 @@
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=SomiyaRana&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomiyaRana&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomiyaRana&layout=compact&theme=tokyonight&hide=c%2B%2B" />
 </p>
+
+<!-- Total Contributions Card -->
+<p align="center">
+  <img src="https://metrics.lecoq.io/SomiyaRana?template=classic&base=activity&base.indepth=false&base.hireable=false&config.timezone=Asia%2FKolkata" />
+</p>
+
 
 
 ## 💼 Featured Projects
