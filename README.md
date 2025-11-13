@@ -43,8 +43,11 @@
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=SomiyaRana&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomiyaRana&layout=compact&theme=tokyonight" />
+  
+  <!-- Top languages without C++ -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomiyaRana&layout=compact&theme=tokyonight&hide=c%2B%2B" />
 </p>
+
 
 ## 💼 Featured Projects
 
