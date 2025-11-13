@@ -47,6 +47,10 @@
 </p>
 
 
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://metrics.lecoq.io/SomiyaRana?template=classic&base=activity&activity=1&config.timezone=Asia%2FKolkata" />
+</p>
 
 
 ## 💼 Featured Projects
