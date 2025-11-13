@@ -18,11 +18,6 @@
   />
  ---
 
-  <!-- Links -->
-  <a href="https://somiya911.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/somiyarana9/">LinkedIn</a>
-
-
 
   <!-- Three equal-sized GIF icons -->
   <img src="https://user-images.githubusercontent.com/74038190/212257410-17e54b84-6af8-4cd8-9deb-46617b6dfd8f.gif" width="120" />
