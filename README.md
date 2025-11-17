@@ -83,15 +83,4 @@
 </div>
 
 
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SomiyaRana/SomiyaRana/output/snake-dark.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/SomiyaRana/SomiyaRana/output/snake.svg" />
-  </picture>
-
-</div>
-
 
