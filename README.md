@@ -81,15 +81,17 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25"/>
 </div>
-## <span style="background: linear-gradient(to right, #43e97b, #38f9d7); -webkit-background-clip: text; color: transparent; font-weight:700;">🐍 GitHub Contribution Snake</span>
+
+
+## 🐍 GitHub Contribution Snake
 
 <div align="center">
 
-  <!-- Light Mode -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SomiyaRana/SomiyaRana/output/snake-dark.svg" />
     <img alt="snake animation" src="https://raw.githubusercontent.com/SomiyaRana/SomiyaRana/output/snake.svg" />
   </picture>
 
 </div>
+
 
