@@ -2,7 +2,7 @@ name: Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,11 +10,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
+      - name: Generate Light Snake
         uses: Platane/snk@v3
         with:
           github_user_name: SomiyaRana
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
       - name: Upload To GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
