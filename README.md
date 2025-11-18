@@ -74,6 +74,14 @@
 
 ---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SomiyaRana&theme=tokyo-night&area=true&hide_border=false" />
+</p>
+
+---
+
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25"/>
