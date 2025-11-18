@@ -65,8 +65,9 @@
 
 <!-- 🔥 GitHub Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SomiyaRana&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=somiyarana&theme=tokyonight&hide_border=false" />
 </p>
+
 
 
 
