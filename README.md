@@ -56,16 +56,18 @@
 </div>
 
 
-## <span style="background: linear-gradient(to right, #a18cd1, #fbc2eb); -webkit-background-clip: text; color: transparent; font-weight:700;">📊 GitHub Stats</span>
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=SomiyaRana&show_icons=true&theme=tokyonight&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomiyaRana&layout=compact&theme=tokyonight&hide=c%2B%2B" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomiyaRana&layout=compact&theme=tokyonight" />
 </p>
 
+<!-- 🔥 GitHub Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SomiyaRana&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=SomiyaRana&theme=tokyonight&hide_border=false" />
 </p>
+
 
 
 
