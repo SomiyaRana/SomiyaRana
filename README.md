@@ -64,6 +64,11 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomiyaRana&layout=compact&theme=tokyonight&hide=c%2B%2B" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SomiyaRana&theme=tokyonight&hide_border=false" />
+</p>
+
+
 ---
 
 <div align="center">
