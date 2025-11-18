@@ -63,11 +63,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomiyaRana&layout=compact&theme=tokyonight" />
 </p>
 
-<!-- 🔥 GitHub Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=somiyarana&theme=tokyonight&hide_border=false" />
-</p>
-
 
 
 
