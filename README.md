@@ -1,6 +1,6 @@
 <!-- MAIN TITLE -->
 <h1 align="center" style="font-weight:700;">
-  Hi! I am <span style="color:#7f5af0">Somiya Rana</span> 👋
+  Hi!👋 I am <span style="color:#7f5af0">Somiya Rana</span> 
 </h1>
 
 <div align="center">
