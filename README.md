@@ -52,14 +52,14 @@
 
 
 
- ## 📊 GitHub Stats
+ ##  GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=SomiyaRana&show_icons=true&theme=tokyonight&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomiyaRana&layout=compact&theme=tokyonight" />
 </p>
 
-## 🔥 GitHub Streak Stats
+##  GitHub Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SomiyaRana&theme=tokyonight&hide_border=false" />
@@ -67,7 +67,7 @@
 
 
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SomiyaRana&theme=tokyo-night&area=true&hide_border=false" />
