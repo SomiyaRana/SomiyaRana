@@ -81,7 +81,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SomiyaRana&theme=tokyo-night&area=true&hide_border=false" />
 </p>
 
----
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25"/>
