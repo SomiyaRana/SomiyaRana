@@ -21,8 +21,6 @@
 - 📈 Completed **300+ LeetCode** problems  
 - ☁️ Interested in AI, backend engineering & cloud technologies  
 
----
-
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Skills**
 
 <p align="center">
@@ -45,8 +43,6 @@
   <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" title="C++" /></kbd>
 </p>
 
----
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
@@ -62,7 +58,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomiyaRana&layout=compact&theme=tokyonight" />
 </p>
 -->
----
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
