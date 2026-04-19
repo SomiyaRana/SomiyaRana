@@ -12,7 +12,6 @@
   />
 </div>
 
----
 
 ## <span style="background: linear-gradient(to right, #8c52ff, #ff6ec7); -webkit-background-clip: text; color: transparent; font-weight:700;">📌 About Me</span>
 
@@ -71,9 +70,6 @@
 </p>
 
 
-
-
----
 
 ## 📈 Contribution Graph
 
