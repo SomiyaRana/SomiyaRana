@@ -15,11 +15,11 @@
 
 ## <span style="background: linear-gradient(to right, #8c52ff, #ff6ec7); -webkit-background-clip: text; color: transparent; font-weight:700;">📌 About Me</span>
 
-- 🎯 Highly driven CSE student with a passion for technology & problem-solving  
-- 💻 Skilled in React.js, Node.js, Java & full-stack modern development  
-- 🤖 Built AI-enhanced apps, e-commerce platforms & clean portfolios  
-- 📈 Completed **300+ LeetCode** problems  
-- ☁️ Interested in AI, backend engineering & cloud technologies  
+- Highly driven CSE student with a passion for technology & problem-solving  
+- Skilled in React.js, Node.js, Java & full-stack modern development  
+- Built AI-enhanced apps, e-commerce platforms & clean portfolios  
+- Completed **300+ LeetCode** problems  
+- Interested in AI, backend engineering & cloud technologies  
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Skills**
 
@@ -59,7 +59,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomiyaRana&layout=compact&theme=tokyonight" />
 </p>
 
-##  GitHub Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SomiyaRana&theme=tokyonight&hide_border=false" />
