@@ -1,6 +1,6 @@
 <!-- MAIN TITLE -->
 <h1 align="center" style="font-weight:700;">
-  Hi!👋 I am <span style="color:#7f5af0">Somiya Rana</span> 
+  Hi! I am <span style="color:#7f5af0">Somiya Rana</span> 
 </h1>
 
 <div align="center">
@@ -20,7 +20,6 @@
 - 💻 Skilled in React.js, Node.js, Java & full-stack modern development  
 - 🤖 Built AI-enhanced apps, e-commerce platforms & clean portfolios  
 - 📈 Completed **300+ LeetCode** problems  
-- 🚀 Always improving & building real-world impactful projects  
 - ☁️ Interested in AI, backend engineering & cloud technologies  
 
 ---
