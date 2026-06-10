@@ -13,7 +13,7 @@
 </div>
 
 
-## <span style="background: linear-gradient(to right, #8c52ff, #ff6ec7); -webkit-background-clip: text; color: transparent; font-weight:700;">📌 About Me</span>
+## <span style="background: linear-gradient(to right, #8c52ff, #ff6ec7); -webkit-background-clip: text; color: transparent; font-weight:700;"> About Me</span>
 
 - Highly driven CSE student with a passion for technology & problem-solving  
 - Skilled in React.js, Node.js, Java & full-stack modern development  
@@ -138,16 +138,18 @@
   <img src="https://streak-stats.demolab.com?user=SomiyaRana&theme=tokyonight"/>
 </p>
 
----
 
-<p align="center">
-  ⭐ Always learning, building, and exploring new technologies.
-</p>
 
 ##  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SomiyaRana&theme=tokyo-night&area=true&hide_border=false" />
+</p>
+
+---
+
+<p align="center">
+  Always learning, building, and exploring new technologies.
 </p>
 
 <div align="center">
