@@ -21,27 +21,102 @@
 - Completed **300+ LeetCode** problems  
 - Interested in AI, backend engineering & cloud technologies  
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Skills**
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Skills
+
+
+<h3 align="center">☁️ Salesforce Development</h3>
 
 <p align="center">
-  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" title="React" /></kbd>
-  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" title="Java" /></kbd>
-  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" title="HTML5" /></kbd>
-  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" title="CSS3" /></kbd>
-  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" title="JavaScript" /></kbd>
-  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" title="NodeJS" /></kbd>
-  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" title="ExpressJS" /></kbd>
-  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" title="MongoDB" /></kbd>
-  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" title="MySQL" /></kbd>
-  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="60" title="Socket.io" /></kbd>
-  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" title="Firebase" /></kbd>
-  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" title="Azure" /></kbd>
-  <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="80" title="AWS" /></kbd>
-  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" title="Figma" /></kbd>
-  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" title="Bootstrap" /></kbd>
-  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python" /></kbd>
-  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" title="C++" /></kbd>
+
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" />
+
+<img src="https://img.shields.io/badge/LWC-Lightning%20Web%20Components-FFB75D?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Visualforce-0176D3?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Triggers-0176D3?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/SOSL-00A1E0?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/FFLIB-2C3E50?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Flows-FF6B35?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/REST API-4CAF50?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Async Apex-8E44AD?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/SFDX-0176D3?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Data Modeling-34495E?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Security-000000?style=for-the-badge" />
+
 </p>
+
+
+<h3 align="center">💻 Programming & Full Stack</h3>
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" title="Java"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" title="JavaScript"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" title="C++"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" title="React"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" title="NodeJS"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" title="Express"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" title="HTML5"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" title="CSS3"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" title="Bootstrap"/>
+
+</p>
+
+
+<h3 align="center">☁️ Database & Cloud</h3>
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="80"/>
+
+</p>
+
+
+<h3 align="center">🛠️ Tools</h3>
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" title="Git"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" title="GitHub"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" title="VS Code"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" title="Figma"/>
+
+</p>
+
 <!--
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
