@@ -23,41 +23,22 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Skills
 
-
-<h3 align="center">Salesforce Development</h3>
+<h3 align="center"> Salesforce Development</h3>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" />
-
-<img src="https://img.shields.io/badge/LWC-Lightning%20Web%20Components-FFB75D?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Visualforce-0176D3?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Triggers-0176D3?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/SOSL-00A1E0?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/FFLIB-2C3E50?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Flows-FF6B35?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/REST API-4CAF50?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Async Apex-8E44AD?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/SFDX-0176D3?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Data Modeling-34495E?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Security-000000?style=for-the-badge" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="60" title="Salesforce"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" title="Apex (Java-like Language)"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="60" title="Lightning Web Components (LWC)"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="60" title="Visualforce"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="60" title="Triggers"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="60" title="SOQL"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="60" title="SOSL"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="60" title="FFLIB"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="60" title="REST API Integration"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="60" title="Salesforce DX (SFDX)"/>
 
 </p>
-
 
 <h3 align="center"> Programming & Full Stack</h3>
 
@@ -146,7 +127,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SomiyaRana&theme=tokyo-night&area=true&hide_border=false" />
 </p>
 
----
+
 
 <p align="center">
   Always learning, building, and exploring new technologies.
